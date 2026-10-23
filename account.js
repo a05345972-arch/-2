@@ -1,20 +1,25 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
-// =======================================================
+// ছাপরিটপআপ
+https://t.me/ffpanle1
 var website_name = "YASIN";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINKছাপরিটপআপ
+https://t.me/ffpanle1
 // =======================================================
 var telegram_channel_link = "telegram channel link";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINKছাপরিটপআপ
+https://t.me/ffpanle1
 // =======================================================
 var telegram_group_link = "telegram group link";
-
+ছাপরিটপআপ
+https://t.me/ffpanle1
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINKছাপরিটপআপ
+https://t.me/ffpanle1
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
 
